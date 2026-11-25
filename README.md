@@ -4,6 +4,8 @@ FansAI 数据中台的移动端交互演示。打开后默认进入增长页，�
 
 **[打开在线 Demo](https://cocolayuan.github.io/Data-platform-Mobile-FansAI-New-Branding/)** · **[下载完整单文件 HTML（ZIP）](https://github.com/cocolayuan/Data-platform-Mobile-FansAI-New-Branding/releases/download/v1.0.0/FansAI-Mobile-Final.zip)**
 
+[![FansAI 移动端品牌设计长图，展示增长页、客户与项目视图、工作台及品牌应用场景](assets/fansai-mobile-branding-overview.jpg)](assets/fansai-mobile-branding-overview.jpg?raw=1)
+
 ## 四个 Tab
 
 | 页面 | 可以看什么 | 可以试什么 |
