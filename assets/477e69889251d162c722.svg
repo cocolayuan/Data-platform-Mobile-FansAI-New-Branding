@@ -1,0 +1,76 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="39" height="73.6906" viewBox="0 0 39 73.6906" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Editable glass / ice">
+<g clip-path="url(#clip0_0_4)">
+<rect width="39" height="73.6906" rx="17.3496" fill="white"/>
+<rect width="39" height="73.6906" rx="17.3496" fill="url(#paint0_linear_0_4)"/>
+<rect width="39" height="73.6906" rx="17.3496" fill="url(#paint1_linear_0_4)"/>
+<rect width="39" height="73.6906" rx="17.3496" fill="url(#paint2_radial_0_4)"/>
+<g clip-path="url(#paint3_diamond_0_4_clip_path)" data-figma-skip-parse="true"><g transform="matrix(0.0168986 -0.0736906 0.0247017 0.0521322 19.5 73.6906)"><rect x="0" y="0" width="1053.27" height="996.575" fill="url(#paint3_diamond_0_4)" opacity="1" shape-rendering="crispEdges"/><rect x="0" y="0" width="1053.27" height="996.575" transform="scale(1 -1)" fill="url(#paint3_diamond_0_4)" opacity="1" shape-rendering="crispEdges"/><rect x="0" y="0" width="1053.27" height="996.575" transform="scale(-1 1)" fill="url(#paint3_diamond_0_4)" opacity="1" shape-rendering="crispEdges"/><rect x="0" y="0" width="1053.27" height="996.575" transform="scale(-1)" fill="url(#paint3_diamond_0_4)" opacity="1" shape-rendering="crispEdges"/></g></g><rect width="39" height="73.6906" rx="17.3496" data-figma-gradient-fill="{&#34;type&#34;:&#34;GRADIENT_DIAMOND&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:0.0},&#34;position&#34;:1.0}],&#34;transform&#34;:{&#34;m00&#34;:33.797203063964844,&#34;m01&#34;:49.403457641601562,&#34;m02&#34;:-22.100330352783203,&#34;m10&#34;:-147.38121032714844,&#34;m11&#34;:104.26447296142578,&#34;m12&#34;:95.248977661132812},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;stopsVar&#34;:[{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:0.0},&#34;position&#34;:1.0}],&#34;visible&#34;:true}"/>
+<g id="02 / &#233;&#178;&#156;&#232;&#137;&#178;&#232;&#137;&#178;&#229;&#159;&#159; &#194;&#183; accent" opacity="0.9" filter="url(#filter0_f_0_4)">
+<ellipse cx="28.9032" cy="38.0576" rx="12.1202" ry="12.6588" fill="#00A2CB"/>
+</g>
+<g id="03 / &#230;&#183;&#177;&#232;&#137;&#178;&#232;&#137;&#178;&#229;&#159;&#159; &#194;&#183; deep" opacity="0.64" filter="url(#filter1_f_0_4)">
+<ellipse cx="32.9964" cy="51.5783" rx="9.4268" ry="10.2348" fill="#00496E"/>
+</g>
+<g id="04 / &#230;&#160;&#184;&#229;&#191;&#131;&#232;&#137;&#178;&#229;&#133;&#137; &#194;&#183; pool" opacity="0.9" filter="url(#filter2_f_0_4)">
+<ellipse cx="20.0144" cy="55.7804" rx="12.9282" ry="11.8508" fill="url(#paint4_linear_0_4)"/>
+</g>
+<g id="05 / &#229;&#186;&#149;&#233;&#131;&#168;&#230;&#181;&#133;&#232;&#137;&#178; &#194;&#183; lower" opacity="0.95" filter="url(#filter3_f_0_4)">
+<ellipse cx="7.94809" cy="66.5533" rx="14.0055" ry="15.6215" fill="#A5C5E5"/>
+</g>
+<g id="06 / &#233;&#128;&#143;&#228;&#186;&#174;&#233;&#171;&#152;&#229;&#133;&#137; &#194;&#183; light" opacity="0.96" filter="url(#filter4_f_0_4)">
+<ellipse cx="25.9943" cy="68.7622" rx="9.4268" ry="9.96547" fill="#D5FFE6"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="paint3_diamond_0_4_clip_path"><rect width="39" height="73.6906" rx="17.3496"/></clipPath><filter id="filter0_f_0_4" x="4.79097" y="13.4068" width="48.2244" height="49.3017" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5.99601" result="effect1_foregroundBlur_0_4"/>
+</filter>
+<filter id="filter1_f_0_4" x="15.5542" y="33.328" width="34.8845" height="36.5006" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4.00774" result="effect1_foregroundBlur_0_4"/>
+</filter>
+<filter id="filter2_f_0_4" x="-0.709482" y="36.1339" width="41.4477" height="39.293" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3.89785" result="effect1_foregroundBlur_0_4"/>
+</filter>
+<filter id="filter3_f_0_4" x="-13.3834" y="43.6058" width="42.663" height="45.895" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3.66298" result="effect1_foregroundBlur_0_4"/>
+</filter>
+<filter id="filter4_f_0_4" x="1.43866" y="43.6679" width="49.1112" height="50.1886" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.56441" result="effect1_foregroundBlur_0_4"/>
+</filter>
+<linearGradient id="paint0_linear_0_4" x1="39" y1="73.6906" x2="-13.3832" y2="62.7453" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0B84FF"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_4" x1="39" y1="73.6906" x2="-13.8938" y2="55.4093" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="#2A93FF"/>
+</linearGradient>
+<radialGradient id="paint2_radial_0_4" cx="0" cy="0" r="1" gradientTransform="matrix(20.5976 -77.2166 40.8661 100.325 13.3515 77.2166)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#93E3FF" stop-opacity="0"/>
+<stop offset="0.868094" stop-color="#93E3FF"/>
+</radialGradient>
+<linearGradient id="paint3_diamond_0_4" x1="0" y1="0" x2="500" y2="500" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint4_linear_0_4" x1="26.7874" y1="58.1915" x2="13.9488" y2="71.7241" gradientUnits="userSpaceOnUse">
+<stop stop-color="#56BCD1"/>
+<stop offset="1" stop-color="#CDEBA0"/>
+</linearGradient>
+<clipPath id="clip0_0_4">
+<rect width="39" height="73.6906" rx="17.3496" fill="white"/>
+</clipPath>
+</defs>
+</svg>

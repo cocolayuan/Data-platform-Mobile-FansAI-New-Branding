@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="95" viewBox="0 0 81 95">
+  <title>Rank 1</title>
+  <desc>Agbalumo numeral, outlined from Agbalumo Regular by The Agbalumo Project Authors, SIL Open Font License 1.1.</desc>
+  <defs>
+    <linearGradient id="plate" x2=".25" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#344bea"/><stop offset="1" stop-color="#1730b0"/></linearGradient>
+    <linearGradient id="face" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".66" stop-color="#ffffff"/><stop offset="1" stop-color="#dceaff"/></linearGradient>
+    <path id="plateShape" d="M21 1H73Q80 1 79 9L66 88Q65 94 58 94H8Q1 94 2 85L14 8Q15 1 21 1Z"/><clipPath id="edge"><use href="#plateShape"/></clipPath>
+    <path id="digit" d="M 49.89 77.00Q 46.26 77.00 43.28 75.88Q 40.30 74.76 40.41 72.74Q 40.94 64.00 42.43 54.84Q 43.92 45.68 45.09 37.48Q 41.79 42.27 37.80 45.04Q 33.80 47.81 30.07 47.81Q 25.81 47.81 22.46 43.71Q 19.10 39.61 17.93 30.45Q 19.42 30.55 20.91 30.71Q 22.40 30.87 23.79 30.87Q 29.75 30.87 35.66 29.43Q 41.58 28.00 45.84 25.65Q 45.41 19.79 47.70 17.40Q 49.99 15.00 53.08 15.00Q 56.38 15.00 58.73 16.92Q 61.07 18.84 61.07 21.82Q 61.07 23.20 60.38 24.75Q 59.69 26.29 58.20 27.89Q 58.52 36.95 58.52 48.56Q 58.52 60.17 59.90 72.85Q 59.26 74.87 56.28 75.93Q 53.30 77.00 49.89 77.00Z"/>
+  </defs>
+  <use href="#plateShape" fill="url(#plate)"/>
+  <g clip-path="url(#edge)"><path d="M-4 94Q1 44 42 35Q73 27 75 -3" fill="none" stroke="#7992ed" stroke-width="10"/></g>
+  <use href="#plateShape" fill="none" stroke="#8cafff" stroke-opacity=".52" stroke-width="1.15"/>
+  <g stroke-linejoin="round">
+    <use href="#digit" transform="translate(1.8 3.5)" fill="#081b6a" stroke="#081b6a" stroke-width="2.5"/>
+    <use href="#digit" fill="url(#face)" stroke="#8cafff" stroke-width="1.75" paint-order="stroke fill"/>
+  </g>
+</svg>

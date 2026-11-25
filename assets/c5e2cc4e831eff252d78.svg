@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="91" viewBox="0 0 77 91">
+  <title>Rank 3</title>
+  <desc>Agbalumo numeral, outlined from Agbalumo Regular by The Agbalumo Project Authors, SIL Open Font License 1.1.</desc>
+  <defs>
+    <linearGradient id="plate" x2="0" y2="1"><stop stop-color="#7260cf"/><stop offset="1" stop-color="#493694"/></linearGradient>
+    <linearGradient id="face" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#f5faff"/></linearGradient>
+    <path id="plateShape" d="M33 2Q38 -.5 43 2L72 18Q76.5 20.5 76.5 26V65Q76.5 70.5 72 73L43 89Q38 92 33 89L5 73Q.5 70 .5 65V26Q.5 21 5 18Z"/><clipPath id="edge"><use href="#plateShape"/></clipPath>
+    <path id="digit" d="M 36.56 72.00Q 32.17 72.00 28.21 70.16Q 24.26 68.33 21.78 64.45Q 19.31 60.58 19.31 54.43L 20.66 53.87Q 24.02 58.66 27.53 60.62Q 31.05 62.57 34.09 62.57Q 36.72 62.57 38.80 61.42Q 40.88 60.26 42.11 58.42Q 43.35 56.58 43.35 54.50Q 43.35 52.43 42.51 50.55Q 41.67 48.67 40.08 47.79Q 38.32 49.07 36.88 49.67Q 35.44 50.27 34.17 50.27Q 31.61 50.27 30.21 48.35Q 28.81 46.44 28.81 44.28Q 28.81 42.20 30.05 40.60Q 31.29 39.01 33.85 39.01Q 35.84 39.01 38.24 40.05Q 40.80 36.93 41.87 34.29Q 42.95 31.66 42.95 29.58Q 42.95 26.78 41.40 25.19Q 39.84 23.59 38.00 23.59Q 36.16 23.59 34.60 25.31Q 33.05 27.02 33.05 30.78Q 33.05 31.82 33.21 33.02Q 33.37 34.21 33.69 35.57Q 28.09 35.57 25.26 32.94Q 22.42 30.30 22.42 26.94Q 22.42 24.31 24.22 21.79Q 26.02 19.28 29.65 17.64Q 33.29 16.00 38.88 16.00Q 44.39 16.00 48.11 17.64Q 51.82 19.28 53.70 21.99Q 55.57 24.71 55.57 27.98Q 55.57 31.90 52.78 35.93Q 49.98 39.97 44.23 43.00Q 48.62 43.40 51.38 45.24Q 54.14 47.08 55.42 49.67Q 56.69 52.27 56.69 55.22Q 56.69 59.14 54.98 62.21Q 53.26 65.29 50.34 67.49Q 47.43 69.68 43.83 70.84Q 40.24 72.00 36.56 72.00Z"/>
+  </defs>
+  <use href="#plateShape" fill="url(#plate)"/>
+  <g clip-path="url(#edge)" opacity=".2"><path d="M-4 71L76 7L82 15L0 83Z" fill="#8499dc"/><path d="M38 94L81 32V44L50 94Z" fill="#cad7fd"/></g>
+  <use href="#plateShape" fill="none" stroke="#f5f7ff" stroke-opacity=".52" stroke-width="1.15"/>
+  <g transform="translate(38 45) scale(.96) translate(-38 -45)" stroke-linejoin="round">
+    <use href="#digit" transform="translate(1.8 3.5)" fill="#292152" stroke="#292152" stroke-width="2.5"/>
+    <use href="#digit" fill="url(#face)" stroke="#f5f7ff" stroke-width="1.75" paint-order="stroke fill"/>
+  </g>
+</svg>
