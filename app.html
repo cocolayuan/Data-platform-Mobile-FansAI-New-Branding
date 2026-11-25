@@ -12722,7 +12722,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE. */
     var a = e.target.closest && e.target.closest("a[href]");
     if (!a) return;
     var href = a.getAttribute("href") || "";
-    if (/^#/.test(href) || /^(blob:|data:)/.test(href) && a.hasAttribute("download")) return;
+    if (/^#/.test(href) || (/^(blob:|data:)/.test(href) || isPackagedAsset(href)) && a.hasAttribute("download")) return;
     e.preventDefault();
     var row = a.closest("li,div");
     var name = (row && (row.querySelector("b,strong,.n,.nm") || {}).textContent) || a.textContent;
